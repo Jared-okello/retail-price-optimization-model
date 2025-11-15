@@ -16,6 +16,12 @@ This project provides:
 - Python 3.8+
 - VS Code
 - Git
+### Data Setup
+
+1. Place your `retail_price.csv` file in the `data/` folder
+2. The app will automatically detect and load the data
+3. File structure:
+   - `data/retail_price.csv` - Main dataset
 
 ### Installation & Setup
 
@@ -23,3 +29,4 @@ This project provides:
 ```bash
 git clone <your-repository-url>
 cd Retail
+
